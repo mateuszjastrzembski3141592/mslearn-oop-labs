@@ -1,14 +1,14 @@
-# csharp-labs
+# mslearn-oop-labs
 
-This repository acts as a laboratory for small C# projects. The code here is primarily based on the **Microsoft Learn** object-oriented programming path but serves as an independent workspace for testing specific C# concepts.
+This repository serves as a laboratory for small standalone C# projects from `mslearn-develop-oop-csharp` that were not part of the `BankingApp` project.
 
 ## Sources
-[Microsoft Learn: Develop Object-Oriented C# Applications](https://microsoftlearning.github.io/mslearn-develop-oop-csharp/)
+[mslearn-develop-oop-csharp](https://microsoftlearning.github.io/mslearn-develop-oop-csharp/)
 
 ## Projects
 | Project Name | Description | Concepts Explored |
 | :--- | :--- | :--- |
-| **InterfacesClassroom** | Modeling people in different roles as teacher or student. | Interfaces, Collections, Base Classes. |
+| **InterfacesClassroom** | Modeling people in different roles (Teacher/Student) to demonstrate contracts. | Interfaces (`IPerson`) |
 
 ---
 *Note: This repository is separate from the main Banking App project.*
