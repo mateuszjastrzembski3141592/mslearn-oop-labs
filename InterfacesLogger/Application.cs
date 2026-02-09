@@ -4,13 +4,13 @@ namespace InterfacesLogger;
 
 public class Application
 {
-    private readonly ConsoleLogger _logger;
-    private readonly DatabaseAccess _dataAccess;
+    private readonly ILogger _logger;
+    private readonly IDataAccess _dataAccess;
 
-    public Application()
+    public Application(ILogger logger, IDataAccess dataAccess)
     {
-        _logger = new ConsoleLogger();
-        _dataAccess = new DatabaseAccess();
+        _logger = logger;
+        _dataAccess = dataAccess;
     }
 
     public void Run()

@@ -2,7 +2,7 @@ using System;
 
 namespace InterfacesLogger;
 
-public class DatabaseAccess
+public class DatabaseAccess : IDataAccess
 {
     // Simulate connecting to a database.
     public void Connect()

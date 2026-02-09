@@ -9,7 +9,7 @@ This repository serves as a laboratory for small standalone C# projects from `ms
 | Project Name | Description | Concepts Explored |
 | :--- | :--- | :--- |
 | **InterfacesClassroom** | Modeling people in different roles (Teacher/Student) to demonstrate contracts and custom collections. | - **Polymorphism:** treating `Student` and `Teacher` as `IPerson`.<br>- **Custom Collections:** implementing `IEnumerable<T>`.<br>- **Sorting Logic:** implementing `IComparable` for `List.Sort()`.<br>- **Modern C#:** pattern matching and default interface implementations. |
-| **InterfacesLogger** | Simple logging application used as a decouple and interfaces training. | - **Decoupling** ... .<br>- **Depencency injection** ... .|
+| **InterfacesLogger** | Refactoring a tightly coupled application to use a flexible, loosely coupled architecture. | - **Decoupling:** separating logic from infrastructure .<br>- **Depencency injection:** using constructor injection to pass dependencies. |
 
 ---
 *Note: This repository is separate from the main Banking App project.*
