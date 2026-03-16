@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesLogger", "Interfa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankApp", "BankApp\BankApp.csproj", "{A84BFD9D-568F-45CA-BC3B-25805F1E39A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CounterApp", "CounterApp\CounterApp.csproj", "{88CF48F5-546B-4E8B-A5CD-9A6ECA9E67AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,18 @@ Global
 		{A84BFD9D-568F-45CA-BC3B-25805F1E39A7}.Release|x64.Build.0 = Release|Any CPU
 		{A84BFD9D-568F-45CA-BC3B-25805F1E39A7}.Release|x86.ActiveCfg = Release|Any CPU
 		{A84BFD9D-568F-45CA-BC3B-25805F1E39A7}.Release|x86.Build.0 = Release|Any CPU
+		{88CF48F5-546B-4E8B-A5CD-9A6ECA9E67AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88CF48F5-546B-4E8B-A5CD-9A6ECA9E67AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88CF48F5-546B-4E8B-A5CD-9A6ECA9E67AD}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{88CF48F5-546B-4E8B-A5CD-9A6ECA9E67AD}.Debug|x64.Build.0 = Debug|Any CPU
+		{88CF48F5-546B-4E8B-A5CD-9A6ECA9E67AD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{88CF48F5-546B-4E8B-A5CD-9A6ECA9E67AD}.Debug|x86.Build.0 = Debug|Any CPU
+		{88CF48F5-546B-4E8B-A5CD-9A6ECA9E67AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88CF48F5-546B-4E8B-A5CD-9A6ECA9E67AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88CF48F5-546B-4E8B-A5CD-9A6ECA9E67AD}.Release|x64.ActiveCfg = Release|Any CPU
+		{88CF48F5-546B-4E8B-A5CD-9A6ECA9E67AD}.Release|x64.Build.0 = Release|Any CPU
+		{88CF48F5-546B-4E8B-A5CD-9A6ECA9E67AD}.Release|x86.ActiveCfg = Release|Any CPU
+		{88CF48F5-546B-4E8B-A5CD-9A6ECA9E67AD}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
